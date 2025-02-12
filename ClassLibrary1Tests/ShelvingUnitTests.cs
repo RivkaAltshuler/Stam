@@ -14,6 +14,7 @@ namespace ClassLibrary1.Tests
         [TestMethod()]
         public void Cenario1()
         {
+            //stam
             var a = new ShelvingUnit();
             var cell = a.Allocate_Cell(new Product("bread"), 2);
             Assert.IsNotNull(cell);

@@ -1,0 +1,17 @@
+C:\Users\R\source\repos\ConsoleApp5\ClassLibrary1Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\R\source\repos\ConsoleApp5\ClassLibrary1Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\R\source\repos\ConsoleApp5\ClassLibrary1Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\R\source\repos\ConsoleApp5\ClassLibrary1Tests\bin\Release\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\R\source\repos\ConsoleApp5\ClassLibrary1Tests\bin\Release\ClassLibrary1Tests.dll
+C:\Users\R\source\repos\ConsoleApp5\ClassLibrary1Tests\bin\Release\ClassLibrary1Tests.pdb
+C:\Users\R\source\repos\ConsoleApp5\ClassLibrary1Tests\bin\Release\ClassLibrary1.dll
+C:\Users\R\source\repos\ConsoleApp5\ClassLibrary1Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\R\source\repos\ConsoleApp5\ClassLibrary1Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\R\source\repos\ConsoleApp5\ClassLibrary1Tests\bin\Release\ClassLibrary1.pdb
+C:\Users\R\source\repos\ConsoleApp5\ClassLibrary1Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\R\source\repos\ConsoleApp5\ClassLibrary1Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\R\source\repos\ConsoleApp5\ClassLibrary1Tests\obj\Release\ClassLibrary1Tests.csproj.AssemblyReference.cache
+C:\Users\R\source\repos\ConsoleApp5\ClassLibrary1Tests\obj\Release\ClassLibrary1Tests.csproj.CoreCompileInputs.cache
+C:\Users\R\source\repos\ConsoleApp5\ClassLibrary1Tests\obj\Release\ClassLib.1BFD404C.Up2Date
+C:\Users\R\source\repos\ConsoleApp5\ClassLibrary1Tests\obj\Release\ClassLibrary1Tests.dll
+C:\Users\R\source\repos\ConsoleApp5\ClassLibrary1Tests\obj\Release\ClassLibrary1Tests.pdb
