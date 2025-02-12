@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\R\\source\\repos\\ConsoleApp5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C59E9930-A5A4-4302-BB50-07A8FCBD530C}|ClassLibrary1Tests\\ClassLibrary1Tests.csproj|c:\\users\\r\\source\\repos\\consoleapp5\\classlibrary1tests\\shelvingunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C59E9930-A5A4-4302-BB50-07A8FCBD530C}|ClassLibrary1Tests\\ClassLibrary1Tests.csproj|solutionrelative:classlibrary1tests\\shelvingunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBD36C8-C6DB-4220-8BF1-BCC6A42D0712}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\R\\source\\repos\\ConsoleApp5\\classlibrary1\\chilledproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBD36C8-C6DB-4220-8BF1-BCC6A42D0712}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\chilledproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBD36C8-C6DB-4220-8BF1-BCC6A42D0712}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\R\\source\\repos\\ConsoleApp5\\classlibrary1\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBD36C8-C6DB-4220-8BF1-BCC6A42D0712}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBD36C8-C6DB-4220-8BF1-BCC6A42D0712}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\R\\source\\repos\\ConsoleApp5\\classlibrary1\\hazardousproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBD36C8-C6DB-4220-8BF1-BCC6A42D0712}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\hazardousproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBD36C8-C6DB-4220-8BF1-BCC6A42D0712}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\R\\source\\repos\\ConsoleApp5\\classlibrary1\\shelvingunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBD36C8-C6DB-4220-8BF1-BCC6A42D0712}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\shelvingunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBD36C8-C6DB-4220-8BF1-BCC6A42D0712}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\R\\source\\repos\\ConsoleApp5\\classlibrary1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBD36C8-C6DB-4220-8BF1-BCC6A42D0712}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShelvingUnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\R\\source\\repos\\ConsoleApp5\\ClassLibrary1Tests\\ShelvingUnitTests.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1Tests\\ShelvingUnitTests.cs",
+              "ToolTip": "C:\\Users\\R\\source\\repos\\ConsoleApp5\\ClassLibrary1Tests\\ShelvingUnitTests.cs",
+              "RelativeToolTip": "ClassLibrary1Tests\\ShelvingUnitTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:57:40.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HazardousProduct.cs",
+              "DocumentMoniker": "C:\\Users\\R\\source\\repos\\ConsoleApp5\\ClassLibrary1\\HazardousProduct.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\HazardousProduct.cs",
+              "ToolTip": "C:\\Users\\R\\source\\repos\\ConsoleApp5\\ClassLibrary1\\HazardousProduct.cs",
+              "RelativeToolTip": "ClassLibrary1\\HazardousProduct.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:51:34.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChilledProduct.cs",
+              "DocumentMoniker": "C:\\Users\\R\\source\\repos\\ConsoleApp5\\ClassLibrary1\\ChilledProduct.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\ChilledProduct.cs",
+              "ToolTip": "C:\\Users\\R\\source\\repos\\ConsoleApp5\\ClassLibrary1\\ChilledProduct.cs",
+              "RelativeToolTip": "ClassLibrary1\\ChilledProduct.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:50:49.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\R\\source\\repos\\ConsoleApp5\\ClassLibrary1\\Product.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Product.cs",
+              "ToolTip": "C:\\Users\\R\\source\\repos\\ConsoleApp5\\ClassLibrary1\\Product.cs",
+              "RelativeToolTip": "ClassLibrary1\\Product.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:49:32.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShelvingUnit.cs",
+              "DocumentMoniker": "C:\\Users\\R\\source\\repos\\ConsoleApp5\\ClassLibrary1\\ShelvingUnit.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\ShelvingUnit.cs",
+              "ToolTip": "C:\\Users\\R\\source\\repos\\ConsoleApp5\\ClassLibrary1\\ShelvingUnit.cs",
+              "RelativeToolTip": "ClassLibrary1\\ShelvingUnit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAtwBoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:35:17.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\R\\source\\repos\\ConsoleApp5\\ClassLibrary1\\Cell.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Cell.cs",
+              "ToolTip": "C:\\Users\\R\\source\\repos\\ConsoleApp5\\ClassLibrary1\\Cell.cs",
+              "RelativeToolTip": "ClassLibrary1\\Cell.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAWwDYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:34:41.166Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
